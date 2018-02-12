@@ -1,0 +1,13 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "This is a demo",
+  "scripts": {
+    "start": ""
+  },
+  "author": "july.wang",
+  "license": "ISC",
+  "dependencies": {
+    "multimap": "^1.0.2"
+  }
+}
